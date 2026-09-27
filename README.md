@@ -21,8 +21,7 @@ https://your-project.vercel.app
 
 Add your GitHub repository here:
 
-https://github.com/YOUR-USERNAME/ecommerce-capstone
-
+ https://github.com/Ved3428/final-project
 ---
 
 # ✨ Features
