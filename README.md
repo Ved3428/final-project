@@ -13,7 +13,7 @@ client-side state management and persistent storage.
 
 Add your deployed URL here:
 
-https://your-project.vercel.app
+ https://melodic-sorbet-082605.netlify.app/
 
 ---
 
